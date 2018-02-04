@@ -1,0 +1,107 @@
+
+* {
+    box-sizing: border-box;
+    text-align: center;
+
+}
+  
+  #header {
+    padding: 20px;
+    margin-bottom: 20px;
+    width: 100%;
+    color: #333;
+    background: #ccc;
+
+  }
+   
+  #navegation {
+    padding: 20px;
+    margin-bottom: 20px;
+    width: 100%;
+    background: rgb(139, 29, 29);
+
+  }
+  
+  #section {
+    padding: 70px;
+    margin-bottom: 50px;
+    width: 60%;
+    color:orange;
+    background: rgb(121, 114, 114);
+
+  }
+
+  #article {
+    right: -1%;
+    float: right;
+    padding: 70px;
+    margin-bottom: 50px;
+    bottom:40%;
+    width: 40%;
+    position: fixed;
+    color: rgb(55, 25, 223);
+    background: #ccc;
+
+  }
+  
+  #h1 {
+    float: left;
+    padding: 20px;
+    margin-bottom: 20px;
+    width: 33%;
+    color: rgb(193, 223, 25);
+    background: rgb(59, 51, 51);
+
+  }
+  
+  #h2 {
+    padding: 20px;
+    margin-bottom: 20px;
+    width: 100%;
+    color: rgb(12, 3, 3);
+    background: #ccc;
+    overflow: auto;
+  
+  }
+  
+  #h3 {
+    position: fixed;
+    padding: 20px;
+    margin-bottom: 20px;
+    width: 100%;
+    color: rgb(12, 3, 3);
+    background: #6ea3da;
+
+  }
+  
+  #p {
+    position: fixed;
+    padding: 20px;
+    margin-bottom: 20px;
+    width: 40%;
+    color: rgb(12, 3, 3);
+    background: #fff;
+
+  }
+  
+  #aside {
+    position: fixed;
+    bottom: 0px;
+    padding: 40px;
+    margin-bottom: 20px;
+    width: 100%;
+    color: rgb(12, 3, 3);
+    background: #ccc;
+
+  }
+
+  #fotter {
+    position: fixed;
+    bottom: 0px;
+    padding: 40px;
+    margin-bottom: 20px;
+    width: 100%;
+    color: rgb(12, 3, 3);
+    background: #ccc;
+
+  }
